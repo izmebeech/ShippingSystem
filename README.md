@@ -1,7 +1,8 @@
-The package name is "vecka2" (week 2) because I did this exercise on the second week of my
-Java class in Higher Vocational Education.
+Week 2 – Shipping System
 
-There's one class for the actual system (PackageSystem.java), 
-then two records for:
-the package dimensions (Box.java), 
-and the shipping info (ShippingInfo.java)
+The actual java package is named vecka2 ("week 2") because I completed this exercise during the second week of my Java class in Higher Vocational Education.
+
+The project consists of one class for the actual package system (ShippingSystem.java) and two records:
+
+Box.java – stores the package dimensions.
+ShippingInfo.java – stores the package and its shipping information.
